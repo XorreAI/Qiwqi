@@ -25,13 +25,3 @@ Here's how to get started:
 ## Future Plans
 
 Our team is constantly working on enhancing the capabilities of Qiwqi AI. Stay tuned for future updates and advancements!
-
-## Contributions
-
-We love to have the community involved. Feel free to send us a pull request or raise an issue. 
-
-## License
-
-Qiwqi AI is open-source under the [MIT license](LICENSE).
-
-Enjoy the Qiwqi AI experience and take your restaurant or food service business to a whole new level of digital interaction!
